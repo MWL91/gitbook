@@ -10,3 +10,7 @@
 
 * [Composer package development](composer-packages/composer-package-development.md)
 
+## Laravel
+
+* [Stitcher.io](https://stitcher.io/)
+
