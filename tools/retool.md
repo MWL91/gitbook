@@ -2,7 +2,7 @@
 description: Javascript based Laravel Nova with better connections via APIs
 ---
 
-# Retool
+# Retool - CRUD JS
 
 {% embed url="https://www.youtube.com/watch?v=UmKVKsdBnn8&ab\_channel=overment" %}
 
