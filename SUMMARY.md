@@ -2,9 +2,9 @@
 
 * [Hello World!](README.md)
 
-## PHP development
+## Composer packages
 
-* [Composer package development](php-development/composer-package-development.md)
+* [Composer package development](composer-packages/composer-package-development.md)
 
 ## Testing
 
