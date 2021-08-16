@@ -18,3 +18,9 @@
 
 * [The codding train](https://thecodingtrain.com/)
 
+## Software Architecture
+
+* [Software design tools](software-architecture/software-design-tools.md)
+* [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
+* [Refactoring Guru](https://refactoring.guru/pl)
+
