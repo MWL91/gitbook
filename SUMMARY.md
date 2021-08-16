@@ -14,3 +14,7 @@
 
 * [Stitcher.io](https://stitcher.io/)
 
+## Machine learning
+
+* [The codding train](https://thecodingtrain.com/)
+
