@@ -2,11 +2,11 @@
 
 * [Hello World!](README.md)
 
-## Composer packages
-
-* [Composer package development](composer-packages/composer-package-development.md)
-
 ## Testing
 
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
+
+## Composer packages
+
+* [Composer package development](composer-packages/composer-package-development.md)
 
