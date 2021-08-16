@@ -1,7 +1,12 @@
 # Table of contents
 
-* [Composer packages development](README.md)
-* [BDD - Behat in PHP](bdd-behat-in-php.md)
+* [Hello World!](README.md)
 
 ## PHP development
+
+* [Composer package development](php-development/composer-package-development.md)
+
+## Testing
+
+* [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 
