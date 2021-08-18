@@ -27,6 +27,7 @@
 
 ## Tools
 
+* [Kafka](https://kafka.apache.org/)
 * [Retool - CRUD JS](tools/retool.md)
 
 ## Databases
