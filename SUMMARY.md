@@ -20,6 +20,7 @@
 
 ## Software Architecture
 
+* [Poziomy dojrzałości REST](software-architecture/poziomy-dojrzalosci-rest.md)
 * [Software design tools](software-architecture/software-design-tools.md)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
 * [Refactoring Guru](https://refactoring.guru/pl)
@@ -27,4 +28,8 @@
 ## Tools
 
 * [Retool - CRUD JS](tools/retool.md)
+
+## Databases
+
+* [ACID](databases/acid.md)
 
