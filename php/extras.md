@@ -1,4 +1,4 @@
-# Extras
+# Spaceship operator &lt;=&gt;
 
 Spaceship operator
 

@@ -36,5 +36,6 @@
 
 ## PHP
 
-* [Extras](php/extras.md)
+* [Functional programming in php](https://phel-lang.org/)
+* [Spaceship operator &lt;=&gt;](php/extras.md)
 
