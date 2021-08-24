@@ -24,6 +24,7 @@
 * [Software design tools](software-architecture/software-design-tools.md)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
 * [Refactoring Guru](https://refactoring.guru/pl)
+* [Koncepty projektowe](http://itcraftsman.pl/uzyteczne-koncepty-projektowe-kiss-dry-yagni-tda-oraz-separation-of-concerns/)
 
 ## Tools
 
@@ -36,6 +37,10 @@
 
 ## PHP
 
-* [Functional programming in php](https://phel-lang.org/)
 * [Spaceship operator &lt;=&gt;](php/extras.md)
+* [Functional programming in php](https://phel-lang.org/)
+
+## Forums and socials
+
+* [OhMyDev](https://ohmydev.pl/communities/php)
 
