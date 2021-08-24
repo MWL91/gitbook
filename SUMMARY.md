@@ -4,6 +4,7 @@
 
 ## Testing
 
+* [Movies to watch](testing/movies-to-watch.md)
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 
 ## Composer packages
