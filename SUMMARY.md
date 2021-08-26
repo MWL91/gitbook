@@ -44,5 +44,6 @@
 
 ## Quality Assurance
 
+* [PHP Stan](https://phpstan.org/)
 * [Psalm](https://psalm.dev/)
 
