@@ -7,10 +7,6 @@
 * [Movies to watch](testing/movies-to-watch.md)
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 
-## Composer packages
-
-* [Composer package development](composer-packages/composer-package-development.md)
-
 ## Laravel
 
 * [Stitcher.io](https://stitcher.io/)
@@ -29,6 +25,7 @@
 
 ## Tools
 
+* [Composer package development](tools/composer-package-development.md)
 * [Kafka](https://kafka.apache.org/)
 * [Retool - CRUD JS](tools/retool.md)
 
@@ -44,4 +41,8 @@
 ## Forums and socials
 
 * [OhMyDev](https://ohmydev.pl/communities/php)
+
+## Quality Assurance
+
+* [Psalm](https://psalm.dev/)
 
