@@ -13,10 +13,12 @@
 
 ## Machine learning
 
+* [OpenAI](machine-learning/openai.md)
 * [The codding train](https://thecodingtrain.com/)
 
 ## Software Architecture
 
+* [Coupling / Cohesion](software-architecture/coupling-cohesion.md)
 * [Poziomy dojrzałości REST](software-architecture/poziomy-dojrzalosci-rest.md)
 * [Software design tools](software-architecture/software-design-tools.md)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
