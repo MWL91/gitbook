@@ -1,4 +1,6 @@
 # ACID
 
-[https://pl.wikipedia.org/wiki/ACID](https://pl.wikipedia.org/wiki/ACID)
+{% embed url="https://pl.wikipedia.org/wiki/ACID" %}
+
+
 
