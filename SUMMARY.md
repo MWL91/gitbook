@@ -31,6 +31,7 @@
 
 * [Composer package development](tools/composer-package-development.md)
 * [Kafka](https://kafka.apache.org/)
+* [CI/CD](https://www.atlassian.com/continuous-delivery)
 * [Retool - CRUD JS](tools/retool.md)
 
 ## Databases
