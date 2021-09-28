@@ -53,3 +53,7 @@
 * [PHP Stan](https://phpstan.org/)
 * [Psalm](https://psalm.dev/)
 
+## Soft skills
+
+* [Analiza problemów](soft-skills/analiza-problemow.md)
+
