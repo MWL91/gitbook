@@ -26,6 +26,8 @@
 
 ## Tools
 
+* [Elastic search](tools/elastic-search-1/README.md)
+  * [Scoring wyników](tools/elastic-search-1/scoring-wynikow.md)
 * [Composer package development](tools/composer-package-development.md)
 * [Kafka](https://kafka.apache.org/)
 * [CI/CD](https://www.atlassian.com/continuous-delivery)
@@ -55,8 +57,4 @@
 ## Soft skills
 
 * [Analiza problemów](soft-skills/analiza-problemow.md)
-
-## Elastic search
-
-* [Scoring wyników](elastic-search/scoring-wynikow.md)
 
