@@ -15,6 +15,7 @@
 
 * [OpenAI](machine-learning/openai.md)
 * [The codding train](https://thecodingtrain.com/)
+* [Machine learning PHP](machine-learning/machine-learning-php.md)
 
 ## Software Architecture
 
@@ -57,4 +58,8 @@
 ## Soft skills
 
 * [Analiza problemów](soft-skills/analiza-problemow.md)
+
+## Elastic search
+
+* [Scoring wyników](elastic-search/scoring-wynikow.md)
 
