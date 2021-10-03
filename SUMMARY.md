@@ -41,6 +41,12 @@
 
 ## PHP
 
+* [Asynchroniczny PHP](php/asynchroniczny-php/README.md)
+  * [RabbitMQ](https://www.rabbitmq.com/)
+  * [Swoole](https://www.swoole.co.uk/)
+  * [Sztuczki bez prawdziwej asychroniczności](php/asynchroniczny-php/sztuczki-bez-prawdziwej-asychronicznosci.md)
+  * [Komunikacja asynchroniczna](php/asynchroniczny-php/komunikacja-asynchroniczna.md)
+  * [Distrupted tracing \(Jeager\)](php/asynchroniczny-php/distrupted-tracing-jeager.md)
 * [Stitcher.io](https://stitcher.io/)
 * [Generators as a I/O buffer](php/generators-as-a-i-o-buffer.md)
 * [Spaceship operator &lt;=&gt;](php/extras.md)
