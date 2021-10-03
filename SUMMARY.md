@@ -15,6 +15,7 @@
 
 ## Software Architecture
 
+* [Budowanie systemów o wysokiej dostępności](software-architecture/budowanie-systemow-o-wysokiej-dostepnosci.md)
 * [GRASP](software-architecture/grasp.md)
 * [Coupling / Cohesion](software-architecture/coupling-cohesion.md)
 * [Poziomy dojrzałości REST](software-architecture/poziomy-dojrzalosci-rest.md)
