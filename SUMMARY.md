@@ -7,10 +7,6 @@
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 * [Movies to watch](testing/movies-to-watch.md)
 
-## Laravel
-
-* [Stitcher.io](https://stitcher.io/)
-
 ## Machine learning
 
 * [OpenAI](machine-learning/openai.md)
@@ -42,6 +38,7 @@
 
 ## PHP
 
+* [Stitcher.io](https://stitcher.io/)
 * [Generators as a I/O buffer](php/generators-as-a-i-o-buffer.md)
 * [Spaceship operator &lt;=&gt;](php/extras.md)
 * [Functional programming in php](https://phel-lang.org/)
