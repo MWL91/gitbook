@@ -1,23 +1,22 @@
 # Uczenie dzieci
 
-Dlaczego uczyć dzieci programowania?
+## Dlaczego uczyć dzieci programowania?
 
 * Uczenie programowania pomaga w nauce matematyki
 * Programowaie uczy dzieci kreatywności - twórcze rozwiązywanie problemów
 * Programowanie uczy cierpliwości i determinacji
 * Dzięki znajomości programowania dzieci lepiej rozumieją otaczający ich świat
 * Buduje pewność siebie
-*
 
 Nie warto jest robić za ucznia - trzeba obniżyć poziom do momentu w którym on tego nie zrozumie.
 
 Rozbijać zadania na mniejsze - nie tworzyć wielkich zadań, tylko pokazać że cierpliwość popłaca.
 
-Jak wytłumaczyć dziecku co to jest program:
+## Jak wytłumaczyć dziecku co to jest program:
 
 * wyjaśnić na czym polega robienie kanapki - co dokładnie trzeba zrobić żeby zrobić kanapkę
 
-Jak tłumaczyć trudne pojęcia:
+## Jak tłumaczyć trudne pojęcia:
 
 * zmienna - szuflada do przechowywania życia w grze
 * pętla - jeszcze raz, jeszcze raz, i jeszcze raz
@@ -53,13 +52,35 @@ Dzieci fajnie się angażują jak są święta (np. helloween, albo boże narodz
 
 Daj dziecku myśleć - jeśli czegoś brakuje, daj dziecku znaleźć rozwiązanie, nie rób tego za nie.
 
+
+
 ## Cykl Kolba
 
 Pozwala przekuć doświadczenia w zdobywanie wiedzy.
 
+{% embed url="https://humanly.pl/cykl-kolba" %}
+
 1. Zastosowanie
+   1. Rola trenera
+      1. W jaki sposób Twoje umiejętności usprawnią Twoją pracę?
+      2. O czym będziesz pamiętał następnym razem
 2. Doświadczenie
+   1. Rola trenera
+      1. Przekazywanie instrukcji - cel spotkania / projektu
+      2. Zadawać pytania naprowadzające
+      3. Służyć radą
+      4. Inspirować i dodawać wsparcia
+   2. Nie robić
+      1. Nie krytykować
+      2. Nie udzielać bezpośrednich informacji / rozwiąza
 3. Reflaksja
+   1. Rola trenera
+      1. Czym to działanie różniło się od twojego poprzedniego
+      2. Wyciąganie wnisków
+      3. Dążenie do rozmowy w grupie
+      4. Służenie radą
+         1. Które wnioski warto wyciągnąć?
+         2. W jaki sposób to Ci się przyda?
 4. Wiedza
 
 
