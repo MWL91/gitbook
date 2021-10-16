@@ -4,6 +4,7 @@
 
 ## Testing
 
+* [Postman flows](testing/postman-flows.md)
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 * [Movies to watch](testing/movies-to-watch.md)
 
