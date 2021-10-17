@@ -28,6 +28,7 @@
 
 ## Tools
 
+* [Wordpress](tools/wordpress.md)
 * [Elastic search](tools/elastic-search-1/README.md)
   * [Scoring wyników](tools/elastic-search-1/scoring-wynikow.md)
 * [Composer package development](tools/composer-package-development.md)
