@@ -16,6 +16,8 @@
 
 ## Software Architecture
 
+* [RPC](software-architecture/rpc.md)
+* [Domain Driven Development](software-architecture/domain-driven-development.md)
 * [Budowanie systemów o wysokiej dostępności](software-architecture/budowanie-systemow-o-wysokiej-dostepnosci.md)
 * [GRASP](software-architecture/grasp.md)
 * [Coupling / Cohesion](software-architecture/coupling-cohesion.md)
@@ -29,6 +31,8 @@
 ## Tools
 
 * [Wordpress](tools/wordpress.md)
+* [Git](tools/git.md)
+* [Docker](tools/docker.md)
 * [Elastic search](tools/elastic-search-1/README.md)
   * [Scoring wyników](tools/elastic-search-1/scoring-wynikow.md)
 * [Composer package development](tools/composer-package-development.md)
@@ -53,6 +57,7 @@
 * [Generators as a I/O buffer](php/generators-as-a-i-o-buffer.md)
 * [Spaceship operator <=>](php/extras.md)
 * [Functional programming in php](https://phel-lang.org)
+* [Wordpress - narzędzia na szybko](php/wordpress-narzedzia-na-szybko.md)
 
 ## Forums and socials
 
@@ -65,5 +70,7 @@
 
 ## Soft skills
 
+* [OSINT](soft-skills/osint.md)
+* [Tworzenie treści](soft-skills/tworzenie-tresci.md)
 * [Uczenie dzieci](soft-skills/uczenie-dzieci.md)
 * [Analiza problemów](soft-skills/analiza-problemow.md)
