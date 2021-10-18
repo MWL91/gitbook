@@ -1,6 +1,4 @@
 # Coupling / Cohesion
 
-{% embed url="https://en.wikipedia.org/wiki/Coupling\_\(computer\_programming\)" %}
-
-
+{% embed url="https://en.wikipedia.org/wiki/Coupling_(computer_programming)" %}
 

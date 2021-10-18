@@ -42,9 +42,7 @@
 
 ### Naiwny klasyfikator Bayesa
 
-{% embed url="https://www.statsoft.pl/textbook/stathome\_stat.html?https%3A%2F%2Fwww.statsoft.pl%2Ftextbook%2Fstnaiveb.html" %}
-
-
+{% embed url="https://www.statsoft.pl/textbook/stathome_stat.html?https%3A%2F%2Fwww.statsoft.pl%2Ftextbook%2Fstnaiveb.html" %}
 
 
 

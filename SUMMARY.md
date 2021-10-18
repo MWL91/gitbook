@@ -16,6 +16,10 @@
 
 ## Software Architecture
 
+* [Wzorce projektowe](software-architecture/wzorce-projektowe/README.md)
+  * [Maszyna stanów](software-architecture/wzorce-projektowe/maszyna-stanow.md)
+  * [Refactoring Guru](https://refactoring.guru/pl)
+  * [Koncepty projektowe](http://itcraftsman.pl/uzyteczne-koncepty-projektowe-kiss-dry-yagni-tda-oraz-separation-of-concerns/)
 * [RPC](software-architecture/rpc.md)
 * [Domain Driven Development](software-architecture/domain-driven-development.md)
 * [Budowanie systemów o wysokiej dostępności](software-architecture/budowanie-systemow-o-wysokiej-dostepnosci.md)
@@ -23,14 +27,13 @@
 * [Coupling / Cohesion](software-architecture/coupling-cohesion.md)
 * [Poziomy dojrzałości REST](software-architecture/poziomy-dojrzalosci-rest.md)
 * [Software design tools](software-architecture/software-design-tools.md)
-* [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl)
 * [SourceMaking](https://sourcemaking.com)
-* [Refactoring Guru](https://refactoring.guru/pl)
-* [Koncepty projektowe](http://itcraftsman.pl/uzyteczne-koncepty-projektowe-kiss-dry-yagni-tda-oraz-separation-of-concerns/)
+* [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl)
 
 ## Tools
 
-* [Wordpress](tools/wordpress.md)
+* [Wordpress](tools/wordpress/README.md)
+  * [Wordpress - narzędzia na szybko](tools/wordpress/wordpress-narzedzia-na-szybko.md)
 * [Git](tools/git.md)
 * [Docker](tools/docker.md)
 * [Elastic search](tools/elastic-search-1/README.md)
@@ -57,7 +60,6 @@
 * [Generators as a I/O buffer](php/generators-as-a-i-o-buffer.md)
 * [Spaceship operator <=>](php/extras.md)
 * [Functional programming in php](https://phel-lang.org)
-* [Wordpress - narzędzia na szybko](php/wordpress-narzedzia-na-szybko.md)
 
 ## Forums and socials
 
