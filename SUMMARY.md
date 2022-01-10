@@ -29,6 +29,7 @@
 * [Software design tools](software-architecture/software-design-tools.md)
 * [SourceMaking](https://sourcemaking.com)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl)
+* [Legacy Fighter](software-architecture/legacy-fighter.md)
 
 ## Tools
 
