@@ -25,7 +25,7 @@
 
 ## React / React Native <a href="#react" id="react"></a>
 
-* [Courses and tutorials](react/courses-and-tutorials.md)
+* [React Native](react/react-native.md)
 * [Formik](react/formik.md)
 * [Redux](react/redux.md)
 
