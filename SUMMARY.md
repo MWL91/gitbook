@@ -28,6 +28,7 @@
 * [React Native](react/react-native.md)
 * [Form managment](react/form-managment.md)
 * [Redux](react/redux.md)
+* [Page 1](react/page-1.md)
 
 ## Machine learning
 
