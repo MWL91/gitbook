@@ -23,9 +23,11 @@
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 * [Movies to watch](testing/movies-to-watch.md)
 
-## React Native
+## React / React Native <a href="#react" id="react"></a>
 
-* [Courses and tutorials](react-native/courses-and-tutorials.md)
+* [Courses and tutorials](react/courses-and-tutorials.md)
+* [Formik](react/formik.md)
+* [Redux](react/redux.md)
 
 ## Machine learning
 
