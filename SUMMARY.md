@@ -26,7 +26,7 @@
 ## React / React Native <a href="#react" id="react"></a>
 
 * [React Native](react/react-native.md)
-* [Formik](react/formik.md)
+* [Form managment](react/form-managment.md)
 * [Redux](react/redux.md)
 
 ## Machine learning
