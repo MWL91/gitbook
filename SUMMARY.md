@@ -16,6 +16,7 @@
 * [Functional programming in php](https://phel-lang.org)
 * [Composer package development](php/composer-package-development/README.md)
   * [Laravel Packager](https://github.com/Jeroen-G/laravel-packager)
+* [API platform](php/api-platform.md)
 
 ## Testing
 
