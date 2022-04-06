@@ -82,7 +82,11 @@
 
 ## Soft skills
 
-* [OSINT](soft-skills/osint.md)
 * [Tworzenie treści](soft-skills/tworzenie-tresci.md)
 * [Uczenie dzieci](soft-skills/uczenie-dzieci.md)
 * [Analiza problemów](soft-skills/analiza-problemow.md)
+
+## Security
+
+* [Fuzzing](security/fuzzing.md)
+* [OSINT](security/osint.md)
