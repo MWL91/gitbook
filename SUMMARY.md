@@ -91,3 +91,7 @@
 
 * [Fuzzing](security/fuzzing.md)
 * [OSINT](security/osint.md)
+
+## Algorithms
+
+* [Monte Carlo Algorithm](algorithms/monte-carlo-algorithm.md)
