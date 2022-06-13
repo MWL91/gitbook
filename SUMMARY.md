@@ -95,3 +95,7 @@
 ## Algorithms
 
 * [Monte Carlo Algorithm](algorithms/monte-carlo-algorithm.md)
+
+## Crypto
+
+* [Solidity](crypto/solidity.md)
