@@ -99,3 +99,8 @@
 ## Crypto
 
 * [Solidity](crypto/solidity.md)
+
+## DDD
+
+* [Slim - light framework](https://www.slimframework.com/)
+* [Prooph](ddd/prooph.md)
