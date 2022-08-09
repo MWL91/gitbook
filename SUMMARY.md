@@ -91,6 +91,7 @@
 
 * [Fuzzing](security/fuzzing.md)
 * [OSINT](security/osint.md)
+* [Cybersec](https://vimeo.com/701718633/574395f9bd)
 
 ## Algorithms
 
