@@ -66,6 +66,7 @@
 * [Kafka](https://kafka.apache.org/)
 * [CI/CD](https://www.atlassian.com/continuous-delivery)
 * [Retool - CRUD JS](tools/retool.md)
+* [WebSequence](https://mermaid.live/)
 
 ## Databases
 
