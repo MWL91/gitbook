@@ -54,6 +54,8 @@
 * [SourceMaking](https://sourcemaking.com/)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
 * [Legacy Fighter](software-architecture/legacy-fighter.md)
+* [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
+* [Model C4](software-architecture/model-c4.md)
 
 ## Tools
 
