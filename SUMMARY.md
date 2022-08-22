@@ -108,3 +108,5 @@
 
 * [Slim - light framework](https://www.slimframework.com/)
 * [Prooph](ddd/prooph.md)
+* [Drivery architektoniczne](ddd/drivery-architektoniczne.md)
+* [Event storming - proces](ddd/event-storming-proces.md)
