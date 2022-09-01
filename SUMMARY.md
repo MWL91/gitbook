@@ -31,6 +31,8 @@
 * [React Native](react/react-native.md)
 * [Form managment](react/form-managment.md)
 * [Redux](react/redux.md)
+* [Design Systems React](react/design-systems-react.md)
+* [JS Patterns](https://www.patterns.dev/)
 
 ## Machine learning
 
