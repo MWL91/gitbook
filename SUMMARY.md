@@ -42,6 +42,7 @@
 
 ## Software Architecture
 
+* [Architecture patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 * [Wzorce projektowe](software-architecture/wzorce-projektowe/README.md)
   * [Maszyna stanów](software-architecture/wzorce-projektowe/maszyna-stanow.md)
   * [Refactoring Guru](https://refactoring.guru/pl)
@@ -56,8 +57,8 @@
 * [SourceMaking](https://sourcemaking.com/)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
 * [Legacy Fighter](software-architecture/legacy-fighter.md)
-* [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
 * [Model C4](software-architecture/model-c4.md)
+* [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
 
 ## Tools
 
