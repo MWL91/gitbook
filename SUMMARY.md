@@ -117,3 +117,4 @@
   * [Value Object](ddd/elementy-konstrukcyjne/value-object.md)
   * [Zachowania](ddd/elementy-konstrukcyjne/zachowania.md)
   * [Łamanie reguł biznesowych](ddd/elementy-konstrukcyjne/lamanie-regul-biznesowych.md)
+  * [Zdarzenia](ddd/elementy-konstrukcyjne/zdarzenia.md)
