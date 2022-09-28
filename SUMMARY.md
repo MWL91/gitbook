@@ -113,4 +113,6 @@
 * [Prooph](ddd/prooph.md)
 * [Drivery architektoniczne](ddd/drivery-architektoniczne.md)
 * [Event storming - proces](ddd/event-storming-proces.md)
-* [Elementy konstrukcyjne](ddd/elementy-konstrukcyjne.md)
+* [Elementy konstrukcyjne](ddd/elementy-konstrukcyjne/README.md)
+  * [Value Object](ddd/elementy-konstrukcyjne/value-object.md)
+  * [Zachowania](ddd/elementy-konstrukcyjne/zachowania.md)
