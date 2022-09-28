@@ -113,3 +113,4 @@
 * [Prooph](ddd/prooph.md)
 * [Drivery architektoniczne](ddd/drivery-architektoniczne.md)
 * [Event storming - proces](ddd/event-storming-proces.md)
+* [Elementy konstrukcyjne](ddd/elementy-konstrukcyjne.md)
