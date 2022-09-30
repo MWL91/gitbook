@@ -106,6 +106,7 @@
 ## Crypto
 
 * [Solidity](crypto/solidity.md)
+* [Haskel + Crypto](crypto/haskel-+-crypto.md)
 
 ## DDD
 
