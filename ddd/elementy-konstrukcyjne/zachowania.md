@@ -1,4 +1,4 @@
-# Zachowania
+# Encje i zachowania
 
 Jeżeli nasze Encje są mutowalne (w przeciwieństwie to ValueObjectów), to należy umożliwić ich zmienianie poprzez wykonywanie określonych reguł biznesowych.
 

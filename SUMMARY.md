@@ -116,7 +116,7 @@
 * [Event storming - proces](ddd/event-storming-proces.md)
 * [Elementy konstrukcyjne](ddd/elementy-konstrukcyjne/README.md)
   * [Value Object](ddd/elementy-konstrukcyjne/value-object.md)
-  * [Encje i zachowania](ddd/elementy-konstrukcyjne/encje-i-zachowania.md)
+  * [Encje i zachowania](ddd/elementy-konstrukcyjne/zachowania.md)
   * [Łamanie reguł biznesowych](ddd/elementy-konstrukcyjne/lamanie-regul-biznesowych.md)
   * [Zdarzenia](ddd/elementy-konstrukcyjne/zdarzenia.md)
   * [Serwisy](ddd/elementy-konstrukcyjne/serwisy.md)
