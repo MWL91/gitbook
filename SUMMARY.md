@@ -124,3 +124,4 @@
   * [Publikacja zdarzeń](ddd/elementy-konstrukcyjne/publikacja-zdarzen.md)
   * [Transport zdarzeń](ddd/elementy-konstrukcyjne/transport-zdarzen.md)
 * [Dobieranie wzorców projektowych](ddd/dobieranie-wzorcow-projektowych.md)
+* [Modularyzacja](ddd/modularyzacja.md)
