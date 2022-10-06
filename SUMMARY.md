@@ -125,3 +125,7 @@
   * [Transport zdarzeń](ddd/elementy-konstrukcyjne/transport-zdarzen.md)
 * [Dobieranie wzorców projektowych](ddd/dobieranie-wzorcow-projektowych.md)
 * [Modularyzacja](ddd/modularyzacja.md)
+
+## CI / CD
+
+* [Flags](ci-cd/flags.md)
