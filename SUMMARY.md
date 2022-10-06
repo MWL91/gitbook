@@ -124,7 +124,9 @@
   * [Publikacja zdarzeń](ddd/elementy-konstrukcyjne/publikacja-zdarzen.md)
   * [Transport zdarzeń](ddd/elementy-konstrukcyjne/transport-zdarzen.md)
 * [Dobieranie wzorców projektowych](ddd/dobieranie-wzorcow-projektowych.md)
-* [Modularyzacja](ddd/modularyzacja.md)
+* [Modularyzacja](ddd/modularyzacja/README.md)
+  * [Enkapsulacja](ddd/modularyzacja/enkapsulacja.md)
+  * [Coupling](ddd/modularyzacja/coupling.md)
 
 ## CI / CD
 
