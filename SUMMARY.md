@@ -127,6 +127,7 @@
 * [Modularyzacja](ddd/modularyzacja/README.md)
   * [Enkapsulacja](ddd/modularyzacja/enkapsulacja.md)
   * [Coupling](ddd/modularyzacja/coupling.md)
+  * [Cohesion (Kohezja)](ddd/modularyzacja/cohesion-kohezja.md)
 
 ## CI / CD
 
