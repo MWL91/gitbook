@@ -26,13 +26,17 @@
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 * [Movies to watch](testing/movies-to-watch.md)
 
+## JavaScript
+
+* [Dates](javascript/dates.md)
+* [JS Patterns](https://www.patterns.dev/)
+
 ## React / React Native <a href="#react" id="react"></a>
 
 * [React Native](react/react-native.md)
 * [Form managment](react/form-managment.md)
 * [Redux](react/redux.md)
 * [Design Systems React](react/design-systems-react.md)
-* [JS Patterns](https://www.patterns.dev/)
 
 ## Machine learning
 
