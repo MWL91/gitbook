@@ -22,6 +22,7 @@
 
 ## Testing
 
+* [Testing done right](testing/testing-done-right.md)
 * [Postman flows](testing/postman-flows.md)
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 * [Movies to watch](testing/movies-to-watch.md)
@@ -47,7 +48,7 @@
 ## Software Architecture
 
 * [Architecture patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
-* [Dobieranie wzorców projektowych](software-architecture/dobieranie-wzorcow-projektowych.md)
+* [Dobieranie wzorców projektowych](ddd/dobieranie-wzorcow-projektowych.md)
 * [Wzorce projektowe](software-architecture/wzorce-projektowe/README.md)
   * [Maszyna stanów](software-architecture/wzorce-projektowe/maszyna-stanow.md)
   * [Refactoring Guru](https://refactoring.guru/pl)
@@ -61,10 +62,10 @@
 * [SourceMaking](https://sourcemaking.com/)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
 * [Legacy Fighter](software-architecture/legacy-fighter.md)
-* [Modularyzacja](software-architecture/modularyzacja/README.md)
-  * [Enkapsulacja](software-architecture/modularyzacja/enkapsulacja.md)
-  * [Coupling](software-architecture/modularyzacja/coupling.md)
-  * [Cohesion (Kohezja)](software-architecture/modularyzacja/cohesion-kohezja.md)
+* [Modularyzacja](ddd/modularyzacja/README.md)
+  * [Enkapsulacja](ddd/modularyzacja/enkapsulacja.md)
+  * [Coupling](ddd/modularyzacja/coupling.md)
+  * [Cohesion (Kohezja)](ddd/modularyzacja/cohesion-kohezja.md)
 * [Model C4](software-architecture/model-c4.md)
 * [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
 * [GRASP](software-architecture/grasp.md)
