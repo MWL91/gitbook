@@ -38,6 +38,7 @@
 * [Form managment](react/form-managment.md)
 * [Redux](react/redux.md)
 * [Design Systems React](react/design-systems-react.md)
+* [Remotion - video programming](react/remotion-video-programming.md)
 
 ## Machine learning
 
