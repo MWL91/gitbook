@@ -70,9 +70,10 @@
 * [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
 * [GRASP](software-architecture/grasp.md)
 * [REST](software-architecture/rest/README.md)
-  * [REST Mature Level](software-architecture/rest/poziomy-dojrzalosci-rest.md)
+  * [REST Mature Level](software-architecture/poziomy-dojrzalosci-rest.md)
   * [Cache](software-architecture/rest/cache.md)
   * [HATEOAS](software-architecture/rest/hateoas.md)
+  * [Wersjonowanie API](software-architecture/rest/wersjonowanie-api.md)
 
 ## Tools
 
