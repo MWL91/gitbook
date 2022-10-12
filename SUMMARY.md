@@ -58,7 +58,6 @@
 * [Domain Driven Development](software-architecture/domain-driven-development.md)
 * [Budowanie systemów o wysokiej dostępności](software-architecture/budowanie-systemow-o-wysokiej-dostepnosci.md)
 * [Coupling / Cohesion](software-architecture/coupling-cohesion.md)
-* [REST Mature Level](software-architecture/poziomy-dojrzalosci-rest.md)
 * [Software design tools](software-architecture/software-design-tools.md)
 * [SourceMaking](https://sourcemaking.com/)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
@@ -70,6 +69,10 @@
 * [Model C4](software-architecture/model-c4.md)
 * [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
 * [GRASP](software-architecture/grasp.md)
+* [REST](software-architecture/rest/README.md)
+  * [REST Mature Level](software-architecture/rest/poziomy-dojrzalosci-rest.md)
+  * [Cache](software-architecture/rest/cache.md)
+  * [HATEOAS](software-architecture/rest/hateoas.md)
 
 ## Tools
 
