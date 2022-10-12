@@ -74,6 +74,9 @@
   * [Cache](software-architecture/rest/cache.md)
   * [HATEOAS](software-architecture/rest/hateoas.md)
   * [Wersjonowanie API](software-architecture/rest/wersjonowanie-api.md)
+* [Persystencja](software-architecture/persystencja/README.md)
+  * [Anomalie współbieżnego dostępu](software-architecture/persystencja/anomalie-wspolbieznego-dostepu.md)
+  * [CAP, Base, Eventual Consistency](software-architecture/persystencja/cap-base-eventual-consistency.md)
 
 ## Tools
 
