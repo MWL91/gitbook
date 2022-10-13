@@ -143,6 +143,7 @@
   * [Komendy](ddd/elementy-konstrukcyjne/komendy.md)
   * [Publikacja zdarzeń](ddd/elementy-konstrukcyjne/publikacja-zdarzen.md)
   * [Transport zdarzeń](ddd/elementy-konstrukcyjne/transport-zdarzen.md)
+* [Event sourcing](ddd/event-sourcing.md)
 
 ## CI / CD
 
