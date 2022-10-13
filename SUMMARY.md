@@ -74,9 +74,11 @@
   * [Cache](software-architecture/rest/cache.md)
   * [HATEOAS](software-architecture/rest/hateoas.md)
   * [Wersjonowanie API](software-architecture/rest/wersjonowanie-api.md)
-* [Persystencja](software-architecture/persystencja/README.md)
-  * [Anomalie współbieżnego dostępu](software-architecture/persystencja/anomalie-wspolbieznego-dostepu.md)
-  * [CAP, Base, Eventual Consistency](software-architecture/persystencja/cap-base-eventual-consistency.md)
+* [Persystencja i bazy danych](software-architecture/persystencja-i-bazy-danych/README.md)
+  * [Anomalie współbieżnego dostępu](software-architecture/persystencja-i-bazy-danych/anomalie-wspolbieznego-dostepu.md)
+  * [CAP, Base, Eventual Consistency](software-architecture/persystencja-i-bazy-danych/cap-base-eventual-consistency.md)
+  * [Rozproszony konsensus](software-architecture/persystencja-i-bazy-danych/rozproszony-konsensus.md)
+  * [Wybór bazy danych](software-architecture/persystencja-i-bazy-danych/wybor-bazy-danych.md)
 
 ## Tools
 
