@@ -1,0 +1,2 @@
+# Perystencja zdarzeń
+
