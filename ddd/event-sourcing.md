@@ -31,4 +31,4 @@ Zapewnia budowanie danych na podstawie wydarzeń, które wystąpiły w systemie.
 * Obserwowalność&#x20;
 * Analiza danych
 
-<figure><img src="../../.gitbook/assets/Zrzut ekranu 2022-10-13 o 14.53.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Zrzut ekranu 2022-10-13 o 14.53.58.png" alt=""><figcaption></figcaption></figure>
