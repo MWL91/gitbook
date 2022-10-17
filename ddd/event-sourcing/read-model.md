@@ -48,6 +48,12 @@ To co można zrobić, to dodanie obsługi wielu zapytań requestowych zwracanych
 * Wrażliwe dane w jednym agregacie - odpowiedzialność za dane wrażliwe jest w osobnym miejscu które możemy usunąć
 * Usuwanie strumienia - eventy są niemutowalne, ale strumień danych można już edytować
 
+W przypadku wydarzeń publicznych:
+
+* Dane są zreplikowane w wielu miejscach
+* Każdy moduł odczytowy musi realizować prawo do zapomnienia
+* Usuwanie strumienia
+
 ## Raporty i ich wyszukiwanie
 
 W przypadku raportów mamy problem wydajnościowy.
@@ -61,3 +67,31 @@ W takiej sytuacji można stworzyć publiczny read-model.
 Nie zawsze należy udostępniać wydarzenia do read-modelu.&#x20;
 
 Np. jeśli mamy program do edycji tekstu, wydarzeniem prywatnym będzie edycja pogrubienia, kursywy czy dodania tekstu, ale wydarzeniem publicznym (dla read-modelu), będzie już jego modyfikacja.
+
+### Zdarzenia publiczne
+
+* Outbox
+* Mogą być wzbogacane
+* Globalna kolejność musi być istotna
+* Mogą być przetwarzane w różnym tempie
+
+## Spójność końcowa
+
+* Ktoś inny zapisuje, ktoś inny odczytuje
+* Przekazanie zlecenia
+
+### Zachowanie spójności kocowej
+
+* Czytanie własnych zapisów
+  * Na bazie zwróconego sukcesu
+  * Na bazie zwróconego zdarzenia
+* Spowalnianie użytkownika
+  * Strona z potwierdzeniem albo podsumowaniem
+  * Wydłużenie przetwarzania komendy
+
+## Podsumowanie
+
+* Odczyt może być spójny, ale płacimy latencją
+* Lokalne modele odczytowe + kompozytowy UI może rozwiązywać problemy
+* Agregowane modele odczytowe i zdarzenia publiczne są rozwiązaniem, ale tylko wtedy gdy faktycznie mamy problem z dużą ilością danych. Nie powinny one jednak używać wewnętrznych wydarzeń, tylko swoich własnych - publicznych.
+
