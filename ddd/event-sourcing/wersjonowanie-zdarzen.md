@@ -36,3 +36,25 @@ Nie możemy usuwać naszych wydarzeń, ale możemy usuwać i modyfikować strumi
 
 W takiej sytuacji należy istniejące modele zamienić na nowy strumień.
 
+### Problemy
+
+* Klienci nasłuchujący
+* Wewnętrzne modele odczytu
+* Zewnętrzne modele odczytu
+* Audyt
+
+## Zmiana semantyki
+
+* Temperatura (np. zmiana z C na F)
+* Waluta (np. z zł na €)
+* Długość (np. z cm na m)
+
+Należy zawsze zdefiniować szczegóły danych.
+
+Nowe znaczenie = Nowe zdarzenie
+
+## Potrzeba wersjonowania w praktyce
+
+* Jak stabilna jest Twoja domena?
+* Czy przeprowadzono dogłębny Event Storming?
+* Jaka jest ziarnistość agregatów?

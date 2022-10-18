@@ -148,6 +148,7 @@
   * [Perystencja zdarzeń](ddd/event-sourcing/perystencja-zdarzen.md)
   * [Read model](ddd/event-sourcing/read-model.md)
   * [Wersjonowanie zdarzeń](ddd/event-sourcing/wersjonowanie-zdarzen.md)
+  * [Optymalizacja w Event Sourcingu](ddd/event-sourcing/optymalizacja-w-event-sourcingu.md)
 
 ## CI / CD
 
