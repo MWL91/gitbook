@@ -147,6 +147,7 @@
   * [Model domenowy i event sourcing](ddd/event-sourcing/model-domenowy-i-event-sourcing.md)
   * [Perystencja zdarzeń](ddd/event-sourcing/perystencja-zdarzen.md)
   * [Read model](ddd/event-sourcing/read-model.md)
+  * [Wersjonowanie zdarzeń](ddd/event-sourcing/wersjonowanie-zdarzen.md)
 
 ## CI / CD
 
