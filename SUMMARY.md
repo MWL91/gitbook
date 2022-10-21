@@ -153,3 +153,7 @@
 ## CI / CD
 
 * [Flags](ci-cd/flags.md)
+
+## Mikroserwisy
+
+* [Kiedy stosować mikroserwisy](mikroserwisy/kiedy-stosowac-mikroserwisy.md)
