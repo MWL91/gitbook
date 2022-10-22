@@ -87,6 +87,7 @@
 * [Inżynieria Chaosu](software-architecture/inzynieria-chaosu.md)
 * [Piramida Testów](software-architecture/piramida-testow.md)
 * [Orkiestracja](software-architecture/orkiestracja.md)
+* [Architecural Decision Record](software-architecture/architecural-decision-record.md)
 
 ## Tools
 
