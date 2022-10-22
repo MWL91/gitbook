@@ -31,6 +31,7 @@
 
 * [Dates](javascript/dates.md)
 * [JS Patterns](https://www.patterns.dev/)
+* [Mikrofrontedy](javascript/mikrofrontedy.md)
 
 ## React / React Native <a href="#react" id="react"></a>
 
@@ -45,6 +46,7 @@
 * [OpenAI](machine-learning/openai.md)
 * [The codding train](https://thecodingtrain.com/)
 * [Machine learning PHP](machine-learning/machine-learning-php.md)
+* [Ciekawe narzędzia](machine-learning/ciekawe-narzedzia.md)
 
 ## Software Architecture
 
@@ -62,6 +64,7 @@
 * [SourceMaking](https://sourcemaking.com/)
 * [Za warstwą abstrakcji](https://zawarstwaabstrakcji.pl/)
 * [Legacy Fighter](software-architecture/legacy-fighter.md)
+* [Tajniki Destylacji Modeli](software-architecture/tajniki-destylacji-modeli.md)
 * [Modularyzacja](ddd/modularyzacja/README.md)
   * [Enkapsulacja](ddd/modularyzacja/enkapsulacja.md)
   * [Coupling](ddd/modularyzacja/coupling.md)
@@ -79,6 +82,8 @@
   * [CAP, Base, Eventual Consistency](software-architecture/persystencja-i-bazy-danych/cap-base-eventual-consistency.md)
   * [Rozproszony konsensus](software-architecture/persystencja-i-bazy-danych/rozproszony-konsensus.md)
   * [Wybór bazy danych](software-architecture/persystencja-i-bazy-danych/wybor-bazy-danych.md)
+* [Inżynieria Chaosu](software-architecture/inzynieria-chaosu.md)
+* [Piramida Testów](software-architecture/piramida-testow.md)
 
 ## Tools
 
@@ -118,6 +123,7 @@
 * [Fuzzing](security/fuzzing.md)
 * [OSINT](security/osint.md)
 * [Cybersec](https://vimeo.com/701718633/574395f9bd)
+* [Security (UW Team na ILoveDev)](security/security-uw-team-na-ilovedev.md)
 
 ## Algorithms
 
@@ -143,6 +149,7 @@
   * [Komendy](ddd/elementy-konstrukcyjne/komendy.md)
   * [Publikacja zdarzeń](ddd/elementy-konstrukcyjne/publikacja-zdarzen.md)
   * [Transport zdarzeń](ddd/elementy-konstrukcyjne/transport-zdarzen.md)
+* [Dobre praktyki (I Love Dev)](ddd/dobre-praktyki-i-love-dev.md)
 * [Event sourcing](ddd/event-sourcing.md)
   * [Model domenowy i event sourcing](ddd/event-sourcing/model-domenowy-i-event-sourcing.md)
   * [Perystencja zdarzeń](ddd/event-sourcing/perystencja-zdarzen.md)

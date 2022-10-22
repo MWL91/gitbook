@@ -10,6 +10,4 @@ Laravel example
 Message bus
 {% endembed %}
 
-
-
-[https://github.com/prooph/proophessor-do-symfony](https://github.com/prooph/proophessor-do-symfony)
+{% embed url="https://github.com/prooph/laravel-example" %}
