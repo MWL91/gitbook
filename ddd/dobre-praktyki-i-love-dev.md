@@ -9,3 +9,5 @@ Szklanka np.
 
 Redukować wg. zdarzenia.
 
+Modelowanie pozwala opisywać świat w innym kontekście, bez zmian.
+

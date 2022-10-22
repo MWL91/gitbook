@@ -26,6 +26,7 @@
 * [Postman flows](testing/postman-flows.md)
 * [BDD - Behat in PHP](testing/bdd-behat-in-php.md)
 * [Movies to watch](testing/movies-to-watch.md)
+* [Testy mutacyjne](testing/testy-mutacyjne.md)
 
 ## JavaScript
 
@@ -84,6 +85,7 @@
   * [Wybór bazy danych](software-architecture/persystencja-i-bazy-danych/wybor-bazy-danych.md)
 * [Inżynieria Chaosu](software-architecture/inzynieria-chaosu.md)
 * [Piramida Testów](software-architecture/piramida-testow.md)
+* [Orkiestracja](software-architecture/orkiestracja.md)
 
 ## Tools
 
