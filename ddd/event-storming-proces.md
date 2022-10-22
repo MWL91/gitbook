@@ -122,4 +122,6 @@ Any organization that designs a system (defined broadly) will produce a design w
 
 ### Walidacja
 
+* Czy bounded ccontexty są&#x20;
 * Czy wszystkie eventy faktycznie są potrzebne w systemie? Jaka jest ich rola? Czy należą do określonego bounded contextu?
+

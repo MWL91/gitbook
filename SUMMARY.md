@@ -88,6 +88,7 @@
 * [Piramida Testów](software-architecture/piramida-testow.md)
 * [Orkiestracja](software-architecture/orkiestracja.md)
 * [Architecural Decision Record](software-architecture/architecural-decision-record.md)
+* [Określanie Metryk](software-architecture/okreslanie-metryk.md)
 
 ## Tools
 
@@ -140,6 +141,7 @@
 
 ## DDD
 
+* [Strategiczne DDD](ddd/strategiczne-ddd.md)
 * [Slim - light framework](https://www.slimframework.com/)
 * [Prooph](ddd/prooph.md)
 * [Drivery architektoniczne](ddd/drivery-architektoniczne.md)
