@@ -51,6 +51,7 @@
 
 ## Software Architecture
 
+* [Style architektoniczne](software-architecture/style-architektoniczne.md)
 * [Architecture patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 * [Dobieranie wzorców projektowych](ddd/dobieranie-wzorcow-projektowych.md)
 * [Wzorce projektowe](software-architecture/wzorce-projektowe/README.md)
