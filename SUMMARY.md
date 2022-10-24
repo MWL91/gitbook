@@ -170,3 +170,5 @@
 ## Mikroserwisy
 
 * [Kiedy stosować mikroserwisy](mikroserwisy/kiedy-stosowac-mikroserwisy.md)
+* [Podejścia do rozpraszania systemów](mikroserwisy/podejscia-do-rozpraszania-systemow.md)
+* [Podział prac w systemie rozproszonym](mikroserwisy/podzial-prac-w-systemie-rozproszonym.md)

@@ -6,11 +6,8 @@ On this gitbook i will share links, ideas and contents that may be usefull when 
 
 I wish you pleasant jurney full of code, love and marketing.
 
-### Agile Manifesto
-
 ## Założenia Manifestu Programowania Zwinnego
 
-\
 _Wyznajemy następujące zasady:_
 
 Najwyższy priorytet ma dla nas zadowolenie klienta\
