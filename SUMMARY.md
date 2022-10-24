@@ -173,3 +173,6 @@
 * [Podejścia do rozpraszania systemów](mikroserwisy/podejscia-do-rozpraszania-systemow.md)
 * [Podział prac w systemie rozproszonym](mikroserwisy/podzial-prac-w-systemie-rozproszonym.md)
 * [Błędne założenia przy rozpraszaniu systemu](mikroserwisy/bledne-zalozenia-przy-rozpraszaniu-systemu.md)
+* [Mikroserwisy a systemy rozproszone](mikroserwisy/mikroserwisy-a-systemy-rozproszone.md)
+* [SLA / SLO / SLI](mikroserwisy/sla-slo-sli.md)
+* [Dostępność](mikroserwisy/dostepnosc.md)
