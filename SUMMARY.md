@@ -176,3 +176,5 @@
 * [Mikroserwisy a systemy rozproszone](mikroserwisy/mikroserwisy-a-systemy-rozproszone.md)
 * [SLA / SLO / SLI](mikroserwisy/sla-slo-sli.md)
 * [Dostępność](mikroserwisy/dostepnosc.md)
+* [Temporal coupling](mikroserwisy/temporal-coupling.md)
+* [Wdrożenia bez niedostępności](mikroserwisy/wdrozenia-bez-niedostepnosci.md)
