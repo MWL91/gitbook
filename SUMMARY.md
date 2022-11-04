@@ -178,3 +178,6 @@
 * [Dostępność](mikroserwisy/dostepnosc.md)
 * [Temporal coupling](mikroserwisy/temporal-coupling.md)
 * [Wdrożenia bez niedostępności](mikroserwisy/wdrozenia-bez-niedostepnosci.md)
+* [Komunikacja](mikroserwisy/komunikacja/README.md)
+  * [Komunikacja synchroniczna a asynchroniczna](mikroserwisy/komunikacja/komunikacja-synchroniczna-a-asynchroniczna.md)
+  * [Komunikacja Fire & Forge](mikroserwisy/komunikacja/komunikacja-fire-and-forge.md)
