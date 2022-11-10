@@ -89,6 +89,7 @@
 * [Orkiestracja](software-architecture/orkiestracja.md)
 * [Architecural Decision Record](software-architecture/architecural-decision-record.md)
 * [Określanie Metryk](software-architecture/okreslanie-metryk.md)
+* [Martin Fowler (Architecture)](https://martinfowler.com/architecture/)
 
 ## Tools
 
@@ -179,6 +180,12 @@
 * [Dostępność](mikroserwisy/dostepnosc.md)
 * [Temporal coupling](mikroserwisy/temporal-coupling.md)
 * [Wdrożenia bez niedostępności](mikroserwisy/wdrozenia-bez-niedostepnosci.md)
-* [Komunikacja](mikroserwisy/komunikacja/README.md)
-  * [Komunikacja synchroniczna a asynchroniczna](mikroserwisy/komunikacja/komunikacja-synchroniczna-a-asynchroniczna.md)
-  * [Komunikacja Fire & Forge](mikroserwisy/komunikacja/komunikacja-fire-and-forge.md)
+* [Komunikacja](mikroserwisy/komunikacja.md)
+
+## Komunikacja
+
+* [Komunikacja synchroniczna a asynchroniczna](komunikacja/komunikacja-synchroniczna-a-asynchroniczna.md)
+* [Komunikacja Fire & Forget](komunikacja/komunikacja-fire-and-forget.md)
+* [Rozproszone Sagi](komunikacja/rozproszone-sagi.md)
+* [API prywatne i API publiczne](komunikacja/api-prywatne-i-api-publiczne.md)
+* [Circuit breaker](komunikacja/circuit-breaker.md)
