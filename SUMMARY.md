@@ -189,3 +189,5 @@
 * [Rozproszone Sagi](komunikacja/rozproszone-sagi.md)
 * [API prywatne i API publiczne](komunikacja/api-prywatne-i-api-publiczne.md)
 * [Circuit breaker](komunikacja/circuit-breaker.md)
+* [Client side load balancer](komunikacja/client-side-load-balancer.md)
+* [Service Discovery](komunikacja/service-discovery.md)
