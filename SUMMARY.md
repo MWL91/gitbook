@@ -191,3 +191,10 @@
 * [Circuit breaker](komunikacja/circuit-breaker.md)
 * [Client side load balancer](komunikacja/client-side-load-balancer.md)
 * [Service Discovery](komunikacja/service-discovery.md)
+
+## 🧠 Mindmapy
+
+* [Continous Integration, Deployment & Delivery](mindmapy/continous-integration-deployment-and-delivery.md)
+* [Komunikacja](mindmapy/komunikacja.md)
+* [Jakość komunikacji](mindmapy/jakosc-komunikacji.md)
+* [Transakcje bazodanowe](mindmapy/transakcje-bazodanowe.md)
