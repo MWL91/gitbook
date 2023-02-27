@@ -198,3 +198,7 @@
 * [Komunikacja](mindmapy/komunikacja.md)
 * [Jakość komunikacji](mindmapy/jakosc-komunikacji.md)
 * [Transakcje bazodanowe](mindmapy/transakcje-bazodanowe.md)
+
+## Środowisko
+
+* [Środowisko deweloperskie made easy](srodowisko/srodowisko-deweloperskie-made-easy.md)
