@@ -18,7 +18,7 @@ Now I'll show you how to add our POC to a GitHub repository. Here's what, let's 
 
 Git and GitHub has a lot of features beyond just holding code. You can create pull requests, perform code review use issues, and even deploy your code to server using github actions.
 
-Now I'm going to show you how, weith git, you can put your application directly to server.&#x20;
+Now I'm going to show you how to deploy manually your application.&#x20;
 
 Speaking of git and team, it's impossible to mention gitblame. Git allows you to find the author of a given line over time. Popular IDEs also allow us to display the author and date of changes, while writing code. There is one more thing.
 
