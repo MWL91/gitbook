@@ -202,3 +202,8 @@
 ## Środowisko
 
 * [Środowisko deweloperskie made easy](srodowisko/srodowisko-deweloperskie-made-easy.md)
+
+***
+
+* [Scenariusz - GIT - PL](scenariusz-git-pl.md)
+* [Scenariusz - GIT - EN](scenariusz-git-en.md)
